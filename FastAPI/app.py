@@ -1,7 +1,7 @@
 import uvicorn
 from fastapi import FastAPI
 from typing import List
-from mylib import (
+from ../mylib import (
     create_order,
     update_order,
     delete_order,
