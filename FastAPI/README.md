@@ -35,7 +35,6 @@ FastAPI/
 │── tests.py          # Test cases for API endpoints
 │── Makefile          # Automation commands (run, test)
 │── requirements.txt  # Python dependencies
-│── .github/workflows/fastapi.yml  # CI pipeline
 
 ````
 
