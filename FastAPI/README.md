@@ -1,3 +1,5 @@
+[![FastAPI Tests](https://github.com/hvmdvvn/Basic-CRUD/actions/workflows/fastapi.yml/badge.svg)](https://github.com/hvmdvvn/Basic-CRUD/actions/workflows/fastapi.yml)
+
 # FastAPI Pizza Ordering CRUD App
 
 ## About the Project
