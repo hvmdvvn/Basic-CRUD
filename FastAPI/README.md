@@ -1,3 +1,5 @@
+[![FastAPI Tests](https://github.com/hvmdvvn/Basic-CRUD/actions/workflows/fastapi.yml/badge.svg)](https://github.com/hvmdvvn/Basic-CRUD/actions/workflows/fastapi.yml)
+
 # FastAPI Pizza Ordering CRUD App
 
 ## About the Project
@@ -35,7 +37,6 @@ FastAPI/
 │── tests.py          # Test cases for API endpoints
 │── Makefile          # Automation commands (run, test)
 │── requirements.txt  # Python dependencies
-│── .github/workflows/fastapi.yml  # CI pipeline
 
 ````
 
