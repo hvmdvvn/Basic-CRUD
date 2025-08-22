@@ -82,5 +82,22 @@
         "total": 9.5,
         "status": "Preparing",
         "orderId": 1005
+    },
+    {
+        "address": "123 Flask St",
+        "customer": "Flask User",
+        "items": [
+            {
+                "extraToppings": [
+                    "Cheese"
+                ],
+                "pizza": "Margherita",
+                "quantity": 1,
+                "size": "Medium"
+            }
+        ],
+        "status": "Preparing",
+        "total": 9.5,
+        "orderId": 1006
     }
 ]
